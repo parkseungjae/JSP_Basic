@@ -11,5 +11,8 @@
 	<a href="test1/test1.jsp">test1로 이동 합니다</a>
 	<br>
 	<a href="test1/test2/test2.jsp">test2로 이동 합니다</a>
+	<br>
+	<a href = "get_post/form.jsp"> form.jsp로 이동 합니다</a>
+	
 </body>
 </html>
