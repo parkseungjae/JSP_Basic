@@ -11,6 +11,8 @@
 	<%
 		int num = 100;
 		System.out.print("결과 : 	" +num);
+		out.print("<h1>결과</h1> : "+num+"<b>입니다</b>");
 	%>
+	<%="<h1>결과11111</h1> : "+num+"<b>입니다</b>"  //out.print와 같은역할 %>
 </body>
 </html>
